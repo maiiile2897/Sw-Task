@@ -798,8 +798,8 @@
       ]
     },
     "/workspaces/Sw-Task/contracts/PERC20Sample.sol": {
-      "lastModificationDate": 1726992272150,
-      "contentHash": "383405c8468c0ddd3b5cc77c2282f4fa",
+      "lastModificationDate": 1726993327554,
+      "contentHash": "ba5b1e521334cabc3c4d27e7ef1581ec",
       "sourceName": "contracts/PERC20Sample.sol",
       "solcConfig": {
         "version": "0.8.20",
